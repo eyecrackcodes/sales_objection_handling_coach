@@ -1,0 +1,17 @@
+[
+    {
+        "objection": "I need more time to think about it.",
+        "suggested_response": "I understand. Can you share what specific concerns you’d like more time to consider?",
+        "keywords": ["understand", "concerns", "consider"]
+    },
+    {
+        "objection": "I need to discuss with my spouse first.",
+        "suggested_response": "Of course, it’s important to make this decision together. Is there any information I can provide that might help in that discussion?",
+        "keywords": ["important", "decision", "information", "discussion"]
+    },
+    {
+        "objection": "I can't afford it.",
+        "suggested_response": "I understand. Would it help if we explored options that could work within your budget?",
+        "keywords": ["understand", "budget", "options"]
+    }
+]
